@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54c05dfd-ce80-42ac-88d5-2adab1141c59" name="Default" comment="" />
+    <list default="true" id="9d3dd57e-ceb8-4e81-b4bf-b68621375aa1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,37 +18,49 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HelloJavaScript!.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloJavaScript!.js">
+      <file leaf-file-name="DaggersAndSwords.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DaggersAndSwords.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="42" selection-end-column="1" />
               <folding>
-                <element signature="n#!!doc;n#hello#0" expanded="false" />
+                <element signature="n#!!doc;n#solve#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AreraAndPerimeter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AreraAndPerimeter.js">
+      <file leaf-file-name="X-Removal.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/X-Removal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="182">
+              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc;n#calculate#0" expanded="false" />
+                <element signature="n#!!doc;n#remove#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DistanceOverTime.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DistanceOverTime.js">
+      <file leaf-file-name="QueryMess.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QueryMess.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="468">
+              <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc;n#calculate#0" expanded="false" />
+                <element signature="n#!!doc;n#extract#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Notebook.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Notebook.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1518">
+              <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc;n#store#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -66,9 +78,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HelloJavaScript!.js" />
-        <option value="$PROJECT_DIR$/AreraAndPerimeter.js" />
-        <option value="$PROJECT_DIR$/DistanceOverTime.js" />
+        <option value="$PROJECT_DIR$/DaggersAndSwords.js" />
+        <option value="$PROJECT_DIR$/X-Removal.js" />
+        <option value="$PROJECT_DIR$/AngularParser.js" />
+        <option value="$PROJECT_DIR$/QueryMess.js" />
+        <option value="$PROJECT_DIR$/HackTest0.js" />
+        <option value="$PROJECT_DIR$/Notebook.js" />
       </list>
     </option>
   </component>
@@ -99,21 +114,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Exercises Data Types, Expressions, Statements" />
+              <option name="myItemId" value="Sample Exam #2 (Sept 2016)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Exercises Data Types, Expressions, Statements" />
+              <option name="myItemId" value="Sample Exam #2 (Sept 2016)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -126,15 +141,24 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sample Exam #1 (Sept 2016)" />
   </component>
-  <component name="RunManager" selected="Node.js.DistanceOverTime.js">
-    <configuration default="false" name="HelloJavaScript!.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="HelloJavaScript!.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.Notebook.js">
+    <configuration default="false" name="X-Removal.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="X-Removal.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="AreraAndPerimeter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="AreraAndPerimeter.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="QueryMess.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="QueryMess.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="DistanceOverTime.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="DistanceOverTime.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="AngularParser.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="AngularParser.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="Notebook.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Notebook.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="HackTest0.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="HackTest0.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -190,16 +214,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.HelloJavaScript!.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.AreraAndPerimeter.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.DistanceOverTime.js" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.X-Removal.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.QueryMess.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.AngularParser.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Notebook.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.HackTest0.js" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.DistanceOverTime.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.AreraAndPerimeter.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.HelloJavaScript!.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Notebook.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.HackTest0.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.QueryMess.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.AngularParser.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.X-Removal.js" />
       </list>
     </recent_temporary>
   </component>
@@ -208,17 +236,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="54c05dfd-ce80-42ac-88d5-2adab1141c59" name="Default" comment="" />
-      <created>1495532515038</created>
+      <changelist id="9d3dd57e-ceb8-4e81-b4bf-b68621375aa1" name="Default" comment="" />
+      <created>1497686871253</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1495532515038</updated>
-      <workItem from="1495532516778" duration="1612000" />
+      <updated>1497686871253</updated>
+      <workItem from="1497686873226" duration="28156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1612000" />
+    <option name="totallyTimeSpent" value="28156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="766" extended-state="0" />
@@ -232,7 +260,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3996479" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -253,32 +281,58 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HelloJavaScript!.js">
+    <entry file="file://$PROJECT_DIR$/DaggersAndSwords.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="42" selection-end-column="1" />
           <folding>
-            <element signature="n#!!doc;n#hello#0" expanded="false" />
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AreraAndPerimeter.js">
+    <entry file="file://$PROJECT_DIR$/X-Removal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="182">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc;n#calculate#0" expanded="false" />
+            <element signature="n#!!doc;n#remove#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DistanceOverTime.js">
+    <entry file="file://$PROJECT_DIR$/AngularParser.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="154">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QueryMess.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc;n#calculate#0" expanded="false" />
+            <element signature="n#!!doc;n#extract#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackTest0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notebook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#store#0" expanded="false" />
           </folding>
         </state>
       </provider>

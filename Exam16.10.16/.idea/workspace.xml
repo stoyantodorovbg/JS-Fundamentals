@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54c05dfd-ce80-42ac-88d5-2adab1141c59" name="Default" comment="" />
+    <list default="true" id="936c9b5f-7a78-4481-aac0-4065f9a32b79" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,23 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HelloJavaScript!.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloJavaScript!.js">
+      <file leaf-file-name="Arithmephile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Arithmephile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc;n#hello#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AreraAndPerimeter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AreraAndPerimeter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="110">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc;n#calculate#0" expanded="false" />
               </folding>
@@ -42,13 +30,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DistanceOverTime.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DistanceOverTime.js">
+      <file leaf-file-name="RossetaStone.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RossetaStone.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc;n#calculate#0" expanded="false" />
+                <element signature="n#!!doc;n#translate#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpyMaster.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpyMaster.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+              <folding>
+                <element signature="n#!!doc;n#encode#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RadicalMarketing.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RadicalMarketing.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-176">
+              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+              <folding>
+                <element signature="n#!!doc;n#register#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -66,9 +78,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HelloJavaScript!.js" />
-        <option value="$PROJECT_DIR$/AreraAndPerimeter.js" />
-        <option value="$PROJECT_DIR$/DistanceOverTime.js" />
+        <option value="$PROJECT_DIR$/Arithmephile.js" />
+        <option value="$PROJECT_DIR$/RossetaStone.js" />
+        <option value="$PROJECT_DIR$/RadicalMarketing.js" />
+        <option value="$PROJECT_DIR$/SpyMaster.js" />
       </list>
     </option>
   </component>
@@ -103,11 +116,11 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Exercises Data Types, Expressions, Statements" />
+              <option name="myItemId" value="Exam16.10.16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Exercises Data Types, Expressions, Statements" />
+              <option name="myItemId" value="Exam16.10.16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -127,14 +140,17 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="Node.js.DistanceOverTime.js">
-    <configuration default="false" name="HelloJavaScript!.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="HelloJavaScript!.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.SpyMaster.js">
+    <configuration default="false" name="Arithmephile.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Arithmephile.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="AreraAndPerimeter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="AreraAndPerimeter.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="RossetaStone.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="RossetaStone.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="DistanceOverTime.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="DistanceOverTime.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="SpyMaster.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="SpyMaster.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="RadicalMarketing.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="RadicalMarketing.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -190,16 +206,18 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.HelloJavaScript!.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.AreraAndPerimeter.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.DistanceOverTime.js" />
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Arithmephile.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.RossetaStone.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.SpyMaster.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.RadicalMarketing.js" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.DistanceOverTime.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.AreraAndPerimeter.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.HelloJavaScript!.js" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.SpyMaster.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.RadicalMarketing.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.RossetaStone.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Arithmephile.js" />
       </list>
     </recent_temporary>
   </component>
@@ -208,17 +226,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="54c05dfd-ce80-42ac-88d5-2adab1141c59" name="Default" comment="" />
-      <created>1495532515038</created>
+      <changelist id="936c9b5f-7a78-4481-aac0-4065f9a32b79" name="Default" comment="" />
+      <created>1497585357934</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1495532515038</updated>
-      <workItem from="1495532516778" duration="1612000" />
+      <updated>1497585357934</updated>
+      <workItem from="1497585365068" duration="30660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1612000" />
+    <option name="totallyTimeSpent" value="30660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="766" extended-state="0" />
@@ -249,36 +267,48 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HelloJavaScript!.js">
+    <entry file="file://$PROJECT_DIR$/Arithmephile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc;n#hello#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AreraAndPerimeter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="110">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc;n#calculate#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DistanceOverTime.js">
+    <entry file="file://$PROJECT_DIR$/RossetaStone.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc;n#calculate#0" expanded="false" />
+            <element signature="n#!!doc;n#translate#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RadicalMarketing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc;n#register#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpyMaster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding>
+            <element signature="n#!!doc;n#encode#0" expanded="false" />
           </folding>
         </state>
       </provider>

@@ -228,6 +228,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="jsx.switch.disabled" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JS-Fundamentals/Exercises Data Types, Expressions, Statements" />
   </component>
   <component name="RunManager" selected="Node.js.PrimeNumberChecker.js">
     <configuration default="false" name="FruitOrVegitable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="FruitOrVegitable.js" working-dir="$PROJECT_DIR$">
@@ -325,12 +326,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495543192078</updated>
-      <workItem from="1495543194704" duration="13991000" />
+      <workItem from="1495543194704" duration="14460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13991000" />
+    <option name="totallyTimeSpent" value="14460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="766" extended-state="0" />
